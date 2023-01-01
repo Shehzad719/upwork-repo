@@ -1,0 +1,560 @@
+.second-nevbar{
+
+/* background-color: aqua; */
+display: flex;
+justify-content:space-evenly;
+width: 850px;
+color: black;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-top: 20px;
+
+}
+
+
+.container-three{
+
+ padding: 40px;
+padding-left: 110px;
+font-size: larger;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: grey;
+}
+
+
+.main-container-one{
+
+    /* background-color: aqua; */
+    /* width: 600px;
+    height: 400px;
+     */
+    margin-top: 40px;
+
+
+
+}
+
+.image-container{
+
+ display: flex; 
+padding-left: 110px;
+justify-content:space-between;
+width: 400px;
+padding-top: 20px;
+
+}
+ 
+.child-image-four{
+
+    display: flex;
+    justify-content: space-between;
+
+    
+} 
+
+.main-card{
+width: 1350px;
+padding: 10px;
+display: flex;
+height: 200px;
+justify-content: space-around;
+margin-top: 40px;
+
+}
+
+.main-div{
+
+
+    background-color: aqua;
+    width: 1100px;
+    height: 550px;
+    justify-content: flex-end;
+}
+
+
+.card-one{
+
+
+    background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+
+}
+
+
+.card-two{
+
+    background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+.card-three{
+
+    background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+.card-four{
+
+
+    background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+
+
+
+.next-card{
+
+    
+    width: 1350px;
+    padding: 10px;
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+    margin-top: 40px;
+    
+    }
+    
+    
+    .next-card-one{
+    
+        background-color:#F2F7F2;
+        color: black;
+        width: 240px;
+        height: 130px;
+        text-align: center;
+        padding-top: 20px;
+        font-size: larger;
+        border-radius: 20px;
+        
+        
+        
+    }
+    
+    
+    .next-card-two{
+    
+        background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+    }
+    
+    .next-card-three{
+    
+        background-color:#F2F7F2;
+    color: black;
+    width: 240px;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    border-radius: 20px;
+    }
+    
+    .next-card-four{
+    
+    
+        background-color:#F2F7F2;
+        color: black;
+        width: 240px;
+        height: 130px;
+        text-align: center;
+        padding-top: 20px;
+        font-size: larger;
+        border-radius: 20px;
+    }
+
+
+    .image-and-para{
+            /* background-color: black; */
+          display: flex;
+          width: 1200px;
+          height: 400px;           
+          justify-content:center;
+          margin-left: 25px;
+          
+          border-radius: 20px;
+    }
+
+    .card-chan{
+background-color:teal;
+width: 700px;
+height: 450px;
+padding: 10px;
+
+
+    }
+
+    .image-chan{
+ /* background-color: blue;  */
+width: 400px;
+height: 450px;
+
+
+    }
+.man-image{
+
+width: 500px;
+height: 450px;
+
+
+}
+
+.heading-chan{
+   padding-top: 20px;
+   padding-left: 20px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 50px;
+   color:lightgreen;
+
+
+}
+
+.second-para{
+
+color: white;
+font-size: 20px;
+padding-top: 20px;
+padding-right: 30px;
+}
+
+.third-para{
+padding-left: 20px;
+
+}
+
+.four-para{
+
+    padding-left: 20px;
+}
+
+.five-para{
+
+    padding-left: 20px;
+}
+
+.image-chan-one{
+    margin: 0px 15px 0px 0px;
+
+}
+
+.image-chan-two{
+
+    margin: 0px 15px 0px 0px;
+}
+
+.image-chan-three{
+
+    margin: 0px 15px 0px 0px;
+}
+
+.card-plus-images{
+    background-image: url( https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3R1ZGVudCUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-color:blueviolet;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 600px;
+    padding-left: 10px;
+    margin-left: 75px;
+    
+     
+     
+ } 
+
+ .first-changing{
+
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+    padding-left: 20px;
+    padding-top: 20px;
+ }
+
+ .second-changing{
+
+    color: white;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    padding-top: 60px;
+
+
+ }
+
+
+ .Third-changing{
+
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+ }
+
+ .card-one-diff{
+
+
+    background-color:#14A800;
+    color: black;
+    width: 300px;
+    height: 150px;
+    padding-left: 5px;
+    padding-top: 10px;
+    border-radius: 20px;
+    
+    
+}
+
+
+.card-two-diff{
+
+    
+    background-color:#14A800;
+    color: black;
+    width: 300px;
+    height: 150px;
+    padding-left: 5px;
+    padding-top: 10px;
+    border-radius: 20px;
+    
+    
+    
+}
+
+.card-three-diff{
+
+
+    background-color:#14A800;
+    color: black;
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-top: 10px;
+        
+    
+}
+
+.ek-aur-class{
+
+    display: flex;
+     justify-content: space-around; 
+}
+
+.hea-diff-one{
+color: white;
+padding-left: 10px;
+padding-top: 5px;
+font-size: 30px;
+font-weight: bold;
+}
+
+.hea-diff-two{
+    color: white;
+    padding-left: 10px;
+padding-top: 5px;
+font-size: 30px;
+font-weight: bold;
+}
+
+.hea-diff-three{
+    color: white;
+    padding-left: 10px;
+padding-top: 5px;
+font-size: 30px;
+font-weight:bolder;
+}
+
+.para-diff-one{
+
+color: white;
+padding-left: 10px;
+padding-top: 20px;
+font-weight: bold;
+}
+
+.para-diff-two{
+    color: white;
+    padding-left: 10px;
+padding-top: 20px;
+font-weight: bold;
+}
+
+.para-diff-three{
+    color: white;
+    padding-left: 10px;
+padding-top: 20px;
+font-weight: bold;
+}
+
+.again-card{
+
+    display: flex;
+          width: 1250px;
+          height: 400px;           
+          justify-content:center;
+          margin-left: 25px;
+          
+          border-radius: 20px;
+}
+
+.again-card-chan{
+    background-color:blue;
+    width: 750px;
+    height: 500px;
+    padding: 10px;
+
+}
+
+.again-heading-chan{
+color:white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 80px;
+padding-left: 20px;
+}
+
+.again-second-para{
+
+color:white;
+font-size: 30px;
+}
+
+.again-third-para{
+color: white;
+padding-left: 20px;
+}
+
+.again-four-para{
+    color: white;
+    padding-left: 20px;
+
+}
+
+
+.again-five-para{
+    color: white;
+    padding-left: 20px;
+
+}
+
+
+.again-image-chan{
+
+    width: 500px;
+    height: 550px;
+    
+}
+
+.again-man-image{
+
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+}
+
+.new-para{
+     width: 1000px;
+    
+}
+
+.new-para-two{
+
+    color: black;
+    font-size: 80px;
+    padding-left: 140px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.new-div{
+
+
+    background-color:#F2F7F2;
+    width: 1210px;
+    height: 150px;
+    padding: 10px;
+    margin-left: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-para-onee{
+
+color: #5E6D55;
+font-weight: bold;
+font-size: 20px;
+padding: 30px;
+
+
+}
+
+.footer-end{
+
+     padding-left: 80px;
+
+}
+
+.card-one-diff:hover  {
+cursor: pointer;
+background-color: tomato;
+
+}
+
+.card-two-diff:hover{
+    cursor: pointer;
+    background-color: tomato;
+    
+    
+
+}
+
+.card-three-diff:hover{
+    cursor: pointer;
+    background-color: tomato;
+    
+    
+
+}
+
+.nav-item:hover{
+    /* position: -webkit-sticky; */
+    position:static;
+    top: 0;
+    background-color:wheat;
+
+}
+
+
+
+
